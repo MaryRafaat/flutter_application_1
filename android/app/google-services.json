@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018984691004",
+    "project_id": "ict-connect-firebase-fc5fa",
+    "storage_bucket": "ict-connect-firebase-fc5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018984691004:android:ede7978e73651823a1da39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Q617NxboUHWxdepQivljLDJv0n96YF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
